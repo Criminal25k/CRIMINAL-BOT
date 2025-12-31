@@ -18,7 +18,7 @@ const settings = {
   commandMode: 'public', // Options: 'public' (everyone) | 'private' (owner only)
 
   // 📝 Meta Information
-  description: '💬 A fun, powerful & stylish WhatsApp MD bot created with ❤️ by Hideout Aura.',
+  description: '💬 A fun, powerful & stylish WhatsApp MD bot created with ❤️ by Lbz criminal.',
   version: '2.0.0',
 updateZipUrl: "https://github.com/Criminal25k/CRIMINAL-BOT.git",
   
